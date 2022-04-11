@@ -6,6 +6,9 @@ I have an intrinsic love for chipotle.
 
 
 # HOW TO USE
+
+**You need NODEJS and Puppeteer installed**
+
 As it's set now, the bot orders a burrito bowl with the following toppings to the closest location to you, at the soonest time avaliable: 
 
 CHICKEN, WHITE RICE (EXTRA) BLACK BEANS, TOMATO, SOUR CREAM, CORN (EXTRA), LETTUCE, CHEESE (EXTRA)
@@ -13,7 +16,7 @@ CHICKEN, WHITE RICE (EXTRA) BLACK BEANS, TOMATO, SOUR CREAM, CORN (EXTRA), LETTU
 This is all editble, to any item on the menu, or anything. See comments on where to change all the following. 
 
 # CAUTION
-As it's set now the bot WILL place an order, and charge the default payment method on your chipotle account. 
+As it's set now the bot **WILL** place an order, and charge the default payment method on your chipotle account. 
 
 Be careful, and comment out the submit process if editing / testing anything. 
 
